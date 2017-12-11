@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/b8bd0c08132864370bbeadab65d3d3e30530fee4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b7d887ff703a2a8dc8405ba0e4ffc89d7e99a4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/b696e7cf0bd2ca7ad6d6baea57fbf5fa84f8719c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3b4a51eac7e0b6eeddb97241afebb28ad82659b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/818ffedbdf75a3e704f2e577bd41d945aa567aff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7982a3581e5b33dea99ce1526dbd81d71b050d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/fed642eaf839e40049c0edb22a95dfa9cb3788d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcf748e8d804bca5ea7a4b97b2ebc7fe4e9007bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_8aa2efbca8cbc351ca53e54149ed571dee7d77b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71b33fddc1a67f62dea31a729c33187cc05d319b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/9ce712f2e141161c1c1a639fd760077bc413f31e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ddf584f0170e3cbeae87921cc6f4c16c7147609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/363a20c21d2f3adb29faba123f13c3b0c15b9ce3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_248a4b0bbe63c2f09272753d29c5c7ef8e49b1e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/790aad9070cc8e9520b5f5d75c5097c010fa0f4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_157769d5362477b32ae91b1fa008cd358ef23990/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/f1895e628129365627925b7ab2f457ae8a74337d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_193305b3f0cea629562568e39c1ffc7ca26f2fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/8999ded90fa62ee1a11824765911ddbf63989860/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3936f245b7ce500172d15848c3acf281bfdc89c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/6d548af5bdb5cc5ac989cb74c22fa10a2ab8dd81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3eb5da49dfcf82623f9846b6212b89a919c5cd86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/b7481774b0e6110af1316bbfb99e0da79d7753d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c300810c5301ad6091a19678cd0294abbeff7c1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/d1247d0972d70bfeeefe6704eaded6d7dbe87b86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70c30c994effd0c7ae40e30d5506cc7b54d44d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/62ab9f24e7a9c1072af37a71aecdc9522a4f5471/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6a7e732d8a6b79edb37b02bb84f1988b6d4ecdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/99b133d5a329d69d9139a4b184510dea2621713b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02c3e9e16ae9dc1f47fe7d2ab7dba26e107130c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/4a25499a9f097294d2ba1165e5bd9f8bfee44996/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4f94a559e6e8cc65eabb37faa0d7ad955ae738b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/9d42acc9db8e35bcd09659f58cde74c24e87720d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_090fe96a76138635c1f5db731e23331739eb857b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/a4cee10d0e32f087bcf534e78068aa81ac929b12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7eb2b4ef7d2dcd9ba2510c3d1950bbdfc8b1d38d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/0037452c627d727c8334bba0705862677cf7128d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83850290fc0ac328eabf82326303b331d1273b16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/c95df97b0e4d5af26006295aee1a39c65b5d7e23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e45e959a73e5586072bd075ff4070dbe09833981/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/7b618f1da5a3412dcc9b8a6e87169c235d4bb4df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a232bdcee5e50bf08353291b438875edf5a2a77d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/a7834a0d32ef651a0f56274feba281ab75e186c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3cb050f89d56b4666805b23836ea3ef9196b07f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/d58a5d2c1f0b0bc2d462a19dfd343d8eb786a453/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c08c3bd4f5b836eee507769d03ba80711588d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/46241b042f4e611103b8ae8c6e971a1932c8790f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37e94f2be2e127309b8051d4ff6179e8f6aba1a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/7c5a09099abacb722f021d2684df35e34b3dcbd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85b2d8fa919a8586fa7dbbf60814ec34787b3c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c38e3b4de170f06215f14419ee52b31c2b13941">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7fc6cb35e583a5c78da6bea43b11bdd3fd2f25c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/c93a1bb551950bb66714e7e324bfa7b930316068/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d19b0896665c8e2db15d7b272ace785fe847ed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apollo_tong/.android/build-cache/88ade7081b58498e435af62fe12a8f8191ad4378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/Users/apollo_tong/Downloads/wyjhomework2ec601-master/Part2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aab24bcad64c077f6e31e0a5f3f672b8d2bedcdd/classes.dex" />
+    </item>
+
+</items>
